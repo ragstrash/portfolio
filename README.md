@@ -1,2 +1,5 @@
 # portfolio
-Portfolio Website
+Generative AI Engineer
+
+###
+Education
